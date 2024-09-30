@@ -18,7 +18,7 @@
 
 ### Output: 
 
-![digital lock system]()
+![digital lock system](https://github.com/farooq823/CODTECH-Task2/blob/main/digital.png?raw=true)
 ## Project Overview: Digital Lock System
 
 ### Objective
